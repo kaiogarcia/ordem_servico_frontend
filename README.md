@@ -16,6 +16,10 @@ Osfrontend é um sistema de gerenciamento de ordens de serviço projetado para s
 ## Captura de Tela
 
 ![Captura de Tela do Projeto](https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/1.png)
+(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/2.png)(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/3.png)
+(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/4.png)
+(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/5.png)
+(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/6.png)
 
 ## Servidor de Desenvolvimento
 
