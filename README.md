@@ -15,11 +15,12 @@ Osfrontend é um sistema de gerenciamento de ordens de serviço projetado para s
 
 ## Captura de Tela
 
-![Captura de Tela do Projeto](https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/1.png)
-(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/2.png)(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/3.png)
-(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/4.png)
-(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/5.png)
-(https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/6.png)
+![Captura de Tela 1](https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/1.png)
+![Captura de Tela 2](https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/2.png)
+![Captura de Tela 3](https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/3.png)
+![Captura de Tela 4](https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/4.png)
+![Captura de Tela 5](https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/5.png)
+![Captura de Tela 6](https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/6.png)
 
 ## Servidor de Desenvolvimento
 
