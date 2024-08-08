@@ -1,27 +1,42 @@
 # Osfrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 12.1.3.
 
-## Development server
+## Descrição
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Osfrontend é um sistema de gerenciamento de ordens de serviço projetado para simplificar e organizar solicitações, atribuições e acompanhamento de serviços. O sistema permite que os usuários criem, atualizem e gerenciem ordens de serviço de forma eficiente.
 
-## Code scaffolding
+## Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Criar e gerenciar ordens de serviço
+- Atribuir ordens a diferentes profissionais de serviço
+- Acompanhar o status das ordens de serviço
+- Gerar relatórios de ordens concluídas e pendentes
+
+## Captura de Tela
+
+![Captura de Tela do Projeto](https://github.com/kaiogarcia/ordem_servico_frontend/blob/main/src/assets/github/1.png)
+
+## Servidor de Desenvolvimento
+
+Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+
+## Criação de Código
+
+Execute `ng generate component nome-componente` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Execute `ng build` para compilar o projeto. Os artefatos de compilação serão armazenados no diretório `dist/`.
 
-## Running unit tests
+## Executando Testes Unitários
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Execute `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Executando Testes End-to-End
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Execute `ng e2e` para executar os testes end-to-end via uma plataforma de sua escolha. Para usar este comando, você precisa primeiro adicionar um pacote que implemente capacidades de testes end-to-end.
 
-## Further help
+## Mais Ajuda
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para obter mais ajuda sobre o Angular CLI, use `ng help` ou consulte a [Visão Geral e Referência de Comandos do Angular CLI](https://angular.io/cli).
